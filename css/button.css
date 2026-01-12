@@ -1,0 +1,50 @@
+.button {
+	padding: 18px 24px;
+	border: solid 2px black;
+	border-radius: 999px;
+	width: max-content;
+}
+.buttonweb {
+	padding: 18px 24px;
+	border: solid 2px black;
+	border-radius: 999px;
+	width: max-content;
+	background-color: white;
+}
+.valid {
+	padding: 18px 100px;
+	border: solid 2px #382d21;
+	border-radius: 999px;
+	width: max-content;
+	background-color: #f4cb5f;
+}
+.imgvalid {
+	padding-right: 10px;
+}
+.redo {
+	padding: 18px 87px;
+	border: solid 2px #382d21;
+	border-radius: 999px;
+	width: max-content;
+	background-color: white;
+}
+.imgredo {
+	padding-right: 10px;
+}
+.bar {
+	width: 115px;
+	border: solid 2px #382d21;
+	padding: 6px 12px;
+	border-radius: 999px;
+	background-color: white;
+}
+.studymode {
+	padding: 4px;
+	margin-left: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	border-radius: 999px;
+	border:solid 2px #382D21;
+	background-color: #f4cb5f;
+	
+}
